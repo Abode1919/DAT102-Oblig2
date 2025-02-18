@@ -36,7 +36,7 @@ public class SorteringsVarianter {
 	    }
 	}
 	public static void main(String[] args) {
-	    int n = 100000; // Antall elementer (juster for å få minst 5 sekunder)
+	    int n = 50000; // Antall elementer (juster for å få minst 5 sekunder)
 	    Integer[] a = new Integer[n];
 
 	    // Fyll tabellen med tilfeldige tall
