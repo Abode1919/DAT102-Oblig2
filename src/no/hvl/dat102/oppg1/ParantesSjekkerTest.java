@@ -1,5 +1,6 @@
 package no.hvl.dat102.oppg1;
 
+
 import static org.junit.Assert.*;
 import org.junit.Test;
 

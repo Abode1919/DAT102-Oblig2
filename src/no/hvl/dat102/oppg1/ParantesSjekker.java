@@ -25,6 +25,7 @@ public class ParantesSjekker {
         return c == '{' || c == '[' || c == '(';
     }
 
+
     private boolean erSluttParentes(char c) {
         return c == '}' || c == ']' || c == ')';
     }
