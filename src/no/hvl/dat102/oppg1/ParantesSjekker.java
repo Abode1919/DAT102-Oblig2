@@ -2,7 +2,7 @@ package no.hvl.dat102.oppg1;
 
 import java.util.Stack;
 
-public class ParentesSjekker {
+public class ParantesSjekker {
 
     public boolean sjekkParenteser(String s) {
         Stack<Character> stabel = new Stack<>();
